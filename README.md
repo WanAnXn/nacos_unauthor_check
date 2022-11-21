@@ -1,0 +1,2 @@
+脚本的主要功能是nacos未授权的漏洞的检测和利用，我比较懒没有写批量的，可以自己改一下。
+使用方法python NacosCheck.py xxxxxxx
